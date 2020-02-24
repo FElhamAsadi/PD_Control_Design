@@ -1,8 +1,4 @@
 # PID controller Design
-Self-Driving Car Engineer Nanodegree Program
-
-## Overview
-
 In this project, a PID controller was implemented in C++ to maneuver the vehicle around the track in the Udacity simulator. The simulator provides us the cross track error (CTE), the speed, and steering angle data via local websocket in order to compute the appropriate steering angle in each time step. The PID controller must respond with steering and throttle commands to drive SAFELY as fast as possible! The maximum speed is 100 mph and there is no need to meet a minimum speed.
 
 ---
